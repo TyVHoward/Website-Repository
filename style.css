@@ -1,0 +1,17 @@
+body {
+    background-color:Blue;
+}
+
+#theHeader {
+  text-align: center;
+  background-color: #afe0e6;
+}
+
+#theSection {
+  background-color: #98aeed;
+}
+
+#theFooter {
+  text-align: center;
+  background-color: #822973;
+}

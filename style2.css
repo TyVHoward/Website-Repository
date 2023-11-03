@@ -1,0 +1,26 @@
+body {
+	background-color:palegoldenrod;
+	color: darkred;
+	font-family: Arial;
+}
+
+h1 {
+	color: black;
+}
+.main {
+	text-align: right;
+}
+
+.sideway {
+	color:#009900;
+
+	font-size: 40px;
+
+	font-weight: bold;
+}
+
+#change1 {
+	font-style:bold;
+
+	font-size: 25px;
+}
