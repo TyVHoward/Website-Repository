@@ -10,7 +10,7 @@
 }
 
 #about {
-	background-color: darkred;
+	background-color: white;
 	color: white;
 }
 
@@ -27,18 +27,17 @@
 
 
 header {
-	border-bottom: 5px solid grey;
+	border-bottom: 15px blueviolet;
 }
 
 .banner {
 	height: 350px;
-	background-image: url(Header Website.jpg);
 	background-size: cover;
 	background-position: center;
 }
 
 section {
-	border: 1px dashed red;
+	border: 1px white;
 	width: 50%;
 	height: 50%;
 }
@@ -55,12 +54,12 @@ footer {
 }
 
 body {
-	background-image: url(double-bubble-dark.png);
+	background-image: url(https://images.unsplash.com/photo-1554034483-04fda0d3507b?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmFja3JvdW5kfGVufDB8fDB8fHww);
 	background-repeat: repeat;
 	background-color:palegoldenrod;
-	color: darkred;
+	color: black;
 	font-family: Arial;
-	font-size: 14px;
+	font-size: 18px;
 	margin: ;
 }
 a:link,
@@ -75,7 +74,7 @@ a:hover {
 }
 
 a:visited {
-	color: dimgrey;
+	color: darkred;
 }
 
 
